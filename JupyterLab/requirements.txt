@@ -46,7 +46,7 @@ jupyter-client==6.0.0
 jupyter-core==4.6.3
 jupyter-telemetry==0.0.5
 jupyterhub==1.1.0
-jupyterlab==2.0.1
+jupyterlab==2.2.10
 jupyterlab-server==1.0.7
 kiwisolver==1.1.0
 llvmlite==0.31.0
